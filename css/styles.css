@@ -300,6 +300,11 @@ text-transform: uppercase;
 
 .portfolio {
 }
+
+.portfolio-button-item {
+  font-family: inherit;
+}
+
 .portfolio-list {
 }
 .portfolio-item {
